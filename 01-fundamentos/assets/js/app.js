@@ -1,3 +1,5 @@
+alert('hola gente');
+
 let a = 10,
     b = 20,
     c = 'Hola ',
